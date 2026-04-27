@@ -5,7 +5,7 @@
 ![VGG-16 Model Architecture](VGG-16-architecture-of-the-model.jpg)
 
 ## CIFAR-10 
-![CIFAR-10 Sample](dog7.png)
+![CIFAR-10 Sample](images.jpg)
 
 
 CIFAR-10 dataset
